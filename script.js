@@ -177,7 +177,7 @@ function showCongratsImage() {
 
     // Título
     const title = document.createElement("h2");
-    title.textContent = `¡Congrats! You've guessed all the Yo-kai in ${tiempoTotal}`;
+    title.textContent = `Congrats! You've guessed all the Yo-kai in ${tiempoTotal}`;
     title.style.marginTop = "40px";
     title.style.marginBottom = "30px";
     title.style.fontSize = "22px";
